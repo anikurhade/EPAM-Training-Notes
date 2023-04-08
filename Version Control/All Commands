@@ -1,0 +1,22 @@
+
+-------------------------------*------------------GIT Commands ---------------------*------------------------------------
+
+There are many Git commands and sub-commands. Here is a list of some of the most commonly used ones:
+
+	1.     git init: Initializes a new Git repository in the current directory.
+	2.     git clone: Copies a Git repository from a remote server to the local machine.
+	3.     git add: Adds changes to the staging area, preparing them for committing.
+	4.     git commit: Commits changes to the repository, creating a new snapshot of the codebase.
+	5.     git push: Sends committed changes to a remote repository.
+	6.     git pull: Retrieves changes from a remote repository and merges them into the local codebase.
+	7.     git status: Displays the status of the local codebase, showing which files have been modified, added, or deleted.
+	8.     git log: Displays a log of all commits in the repository, including the commit message, author, and timestamp.
+	9.     git branch: Lists all branches in the repository, and creates, deletes, or renames branches.
+	10.     git checkout: Switches between branches or commits.
+	11.     git merge: Merges changes from one branch into another.
+	12.     git diff: Displays the differences between two versions of a file or between two branches.
+	13.     git stash: Temporarily stores changes that are not yet ready to be committed.
+	14.     git reset: Reverts the repository to a previous commit.
+	15.     git remote: Manages connections to remote repositories.
+	16.     git fetch: Retrieves changes from a remote repository but does not merge them into the local codebase.
+	17.     git tag: Adds tags to specific commits in the repository, allowing for easier reference later on.
